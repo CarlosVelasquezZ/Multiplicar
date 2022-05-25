@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+/*Comentario de Sergio*/
 int main(int argc, char *argv[]) {
 	int numero;
 	do{
