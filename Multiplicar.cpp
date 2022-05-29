@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-/*Comentario de Sergio desde Visual Studio*/
+/*Comentario de Sergio desde Visual Studio  y*/
 int main(int argc, char *argv[]) {
 	int numero;
 	do{
