@@ -4,6 +4,8 @@ using namespace std;
 /*Comentario de Sergio*/
 
 /*Comentario de Wilmer*/
+
+/*Comentario Veronica*/
 int main(int argc, char *argv[]) {
 	int numero;
 	do{
